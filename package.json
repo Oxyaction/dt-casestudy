@@ -1,0 +1,26 @@
+{
+  "name": "dt-casestudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oxyaction/dt-casestudy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oxyaction/dt-casestudy/issues"
+  },
+  "homepage": "https://github.com/Oxyaction/dt-casestudy#readme",
+  "dependencies": {
+    "ethereum-api": "https://github.com/oraclize/ethereum-api.git",
+    "lite-server": "^2.3.0"
+  }
+}
